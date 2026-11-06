@@ -10,3 +10,7 @@ h1{
 .destaque{
   background-color: #F7D07A;
   margin: 1m;
+
+/* A regra mais díficil de superar foi a de encontrar comk colocar margem, e reolvi perguntando a um colega.*/
+/* O erro mais comum que eu cometi foi de me esquecer de fechar o códico com> ">" ou a utilização de aspas nos links, iamgens...*/
+/* O src é utilizado para identificar a "source" (fonte) e serve para incorporar imagens ou links para fora do meu próprio*/
